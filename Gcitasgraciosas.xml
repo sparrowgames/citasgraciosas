@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs 
+title="citasgraciosas.com"
+description="Version 4.0
+¡¡Interfaz totalmente renovada!!"
+author=$dbase
+author_email="juanuxx@gmail.com"
+screenshot="http://www.citasgraciosas.com/previewgadchet.png"
+thumbnail="http://www.citasgraciosas.com/thumbgadchet.png"
+/> 
+<Content type="url" href="http://www.citasgraciosas.com/Ggadchet.php" /> 
+</Module>

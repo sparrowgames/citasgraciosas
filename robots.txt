@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /gestion/ 
+Disallow: /images/ 
+Disallow: /imgmanos/
+Disallow: /imgvotos/ 
+Disallow: /imgrandom/ 
+Disallow: /temp/ 
+Disallow: /beta/ 
+Disallow: /provas/ 
